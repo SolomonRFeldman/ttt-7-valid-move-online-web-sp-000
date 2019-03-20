@@ -7,5 +7,5 @@ def position_taken?(board, index)
 # !(board[index] == ""  || 
 # board[index] == " " || 
 # board[index] == nil)
-d[index] == "O")
-end  (board[index] == "X" || boar
+(board[index] == "X" || board[index] == "O")
+end  
